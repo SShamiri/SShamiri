@@ -20,6 +20,13 @@ From deploying scalable machine learning solutions to training language models i
 ------------------------------------------------------------------------
 
 
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au)
+
+<a href="https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="My LinkedIn" width="32" height="32" />
+</a>
+
 
 
 
