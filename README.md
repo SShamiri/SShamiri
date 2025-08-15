@@ -13,19 +13,14 @@ From deploying scalable machine learning solutions to training language models i
 | **Cloud Platforms** | ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white) |
 | **Languages** |![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=white) ![](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)|
 | **Frameworks & Productivity** | ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![](https://img.shields.io/badge/MlOps-3776AB?style=flat&logo=mlops&logoColor=white) ![MLflow Badge](https://img.shields.io/badge/MLflow-38B4E7?logo=mlflow&logoColor=white) ![Hugging Face Badge](https://img.shields.io/badge/Hugging_Face-yellow?logo=huggingface&logoColor=white)|
-| **LLM & Deep Learning** | BERT, T5, RNN (LSTM), CNN, GAN, RAG, Prompt Engineering, TensorFlow, PyTorch, MLflow |
+| **LLM & Deep Learning** | BERT, T5, RNN (LSTM), CNN, GAN, RAG, Prompt Engineering, TensorFlow, PyTorch |
 | **Machine Learning & Statistics** | Classification, Regression, Clustering, Forecasting, Anomaly Detection, Bayesian modelling, Bayesian Network, Monte Carlo Simulation |
 
 
 ------------------------------------------------------------------------
 
-
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au)
-
-<a href="https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="My LinkedIn" width="32" height="32" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au)
+[![LinkedIn](https://img.shields.io/badge/website-gray?logo=web&logoColor=white)](https://sshamiri.github.io/Shamiri/)
 
 
 
