@@ -1,8 +1,8 @@
-## 📌 Professional Summary
+##  💼 Career Snapshot
 
-Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.
+After more than 15 years turning raw data into stories that shape policy, drive innovation, and influence major decisions, I’ve learned one truth: numbers alone don’t change the world—insight does. Armed with a PhD in Statistics and a career spanning government, finance, public policy, and the commercial arena, I’ve built my reputation on transforming complexity into clarity.
 
-Deep expertise in NLP, generative AI, and Azure-based data science platforms. Track record of building and deploying scalable solutions using Python, R, Spark, Databricks, and MLflow.
+From deploying scalable machine learning solutions to training language models in the cloud, my work bridges cutting-edge technology with real-world impact. Whether it’s NLP and generative AI or leveraging Azure, Python, R, Spark, Databricks, and MLflow, I’ve consistently delivered tools and insights that don’t just solve problems—they redefine possibilities.
 
 ------------------------------------------------------------------------
 
