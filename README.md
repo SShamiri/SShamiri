@@ -21,7 +21,7 @@ From deploying scalable machine learning solutions to training language models i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au)
 [![LinkedIn](https://img.shields.io/badge/website-gray?logo=web&logoColor=white)](https://sshamiri.github.io/Shamiri/)
-
+[![LinkedIn](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0669-5109)
 
 
 
