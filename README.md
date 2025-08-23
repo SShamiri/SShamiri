@@ -25,3 +25,13 @@ From deploying scalable machine learning solutions to training language models i
 
 ## Certifications
 [<img src="learn-llama-3.png" width="120">](https://www.credly.com/badges/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/public_url)
+
+
+
+
+
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=flat-square)
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=flat-square&logo=tensorflow)
+
