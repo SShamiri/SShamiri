@@ -24,14 +24,5 @@ From deploying scalable machine learning solutions to training language models i
 [![LinkedIn](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0669-5109)
 
 ## Certifications
-[<img src="learn-llama-3.png" width="120">](https://www.credly.com/badges/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/public_url)
-
-
-
-
-
-
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=flat-square)
-
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=flat-square&logo=tensorflow)
-
+[<img src="images/learn-llama-3.png" width="120">](https://www.credly.com/badges/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/public_url)
+[<img src="images/Stanford Online Machine Learning Logo.png" width="120">](https://coursera.org/share/f9d535a87e2be6b0df7ceb7760d8c44d)
