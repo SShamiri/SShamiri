@@ -23,7 +23,5 @@ From deploying scalable machine learning solutions to training language models i
 [![LinkedIn](https://img.shields.io/badge/website-gray?logo=web&logoColor=white)](https://sshamiri.github.io/Shamiri/)
 [![LinkedIn](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0669-5109)
 
-
-
-[![Credly Badge](https://images.credly.com/size/340x340/images/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/badge.png)](https://www.credly.com/badges/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/public_url)
-
+## Certifications
+[<img src="learn-llama-3.png" width="120">](https://www.credly.com/badges/b9cefeaa-545a-43ca-af43-fcd2ba741dd8/public_url)
